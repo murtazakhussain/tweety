@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tweety</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="title_activity_test">Test</string>
+
+    <string name="tweety">Tweety</string>
+    <string name="sorry_nothing_found">Sorry! nothing found !!</string>
+    <string name="what_you_are_looking_for">What you are looking for?</string>
+</resources>
